@@ -3,4 +3,3 @@ then write the text "hello world"
 then write another text "my name is"
 write a text "just for fun"
 then close the file
-test

@@ -1,5 +1,6 @@
 open a file
 then write the text "hello world"
+this line will mess things up
 then write another text "my name is"
 write a text "just for fun"
 then close the file
